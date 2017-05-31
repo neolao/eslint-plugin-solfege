@@ -1,7 +1,7 @@
 {
     "name": "eslint-plugin-solfege",
     "description": "SolfegeJS linting rules for ESLint",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "neolao <contact@neolao.com>",
     "private": false,
     "repository": "https://github.com/neolao/eslint-plugin-solfege.git",
@@ -18,7 +18,7 @@
     "peerDependencies": {
         "eslint": ">=2.0.0"
     },
-    "devDependencies": {
+    "dependencies": {
         "babel-eslint": "^7.2",
         "eslint-plugin-flowtype": "^2.33.0",
         "eslint-plugin-import": "^2.3",
