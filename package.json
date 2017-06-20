@@ -1,7 +1,7 @@
 {
     "name": "eslint-plugin-solfege",
     "description": "SolfegeJS linting rules for ESLint",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "neolao <contact@neolao.com>",
     "private": false,
     "repository": "https://github.com/neolao/eslint-plugin-solfege.git",
